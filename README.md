@@ -29,8 +29,8 @@ These instructions will help you set up and run the project using Docker Compose
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/chrisalbon/Minimal-Dockerized-FastAPI-and-React-Boilerplate.git
+   cd Minimal-Dockerized-FastAPI-and-React-Boilerplate
    ```
 
 2. Launch the application using Docker Compose:
