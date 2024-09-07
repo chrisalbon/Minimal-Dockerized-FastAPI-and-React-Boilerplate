@@ -12,7 +12,7 @@ function App() {
 
     return (
         <div className="App">
-            <p>This message is coming from the React frontend</p>
+            <p>This message is coming from the React frontend.</p>
             <p>{message}</p>
         </div>
     )
